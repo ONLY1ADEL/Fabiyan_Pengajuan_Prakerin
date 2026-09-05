@@ -1,0 +1,54 @@
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe.config
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.pdb
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csprojAssemblyReference.cache
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Form1.resources
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Properties.Resources.resources
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.GenerateResource.cache
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CoreCompileInputs.cache
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.exe
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.pdb
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.dll
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Google.Protobuf.dll
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.xml
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CopyComplete
+C:\Users\LABRPL01-\source\repos\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Form2.resources
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Form1.resources
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Properties.Resources.resources
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.exe
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.pdb
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe.config
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.pdb
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Fadmin.resources
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Fuser.resources
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CopyComplete
+C:\Users\Administrator\Documents\kelas 12\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.kelola.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe.config
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.exe
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Pengajuan_PKL.pdb
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.dll
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\Google.Protobuf.dll
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\bin\Debug\MySql.Data.xml
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Fadmin.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Form1.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Fuser.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.kelola.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.kelolaguru.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.Properties.Resources.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.csproj.CopyComplete
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.exe
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.pdb
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.kelolaperusahaan.resources
+C:\Users\Administrator\Documents\kelas 12\C#\Fabiyan_Pengajuan_Prakerin\Fabiyan_Pengajuan_Prakerin\Pengajuan_PKL\Pengajuan_PKL\obj\Debug\Pengajuan_PKL.SPengajuan.resources
